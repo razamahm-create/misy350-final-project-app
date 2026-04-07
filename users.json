@@ -1,0 +1,18 @@
+[
+    {
+        "user_id": "doc-1",
+        "full_name": "Dr. Smith",
+        "email": "doctor@clinic.com",
+        "password": "doc",
+        "role": "Doctor",
+        "registered_at": "2026-04-07 13:32:45.958079"
+    },
+    {
+        "user_id": "pat-1",
+        "full_name": "Demo Patient",
+        "email": "patient@email.com",
+        "password": "pat",
+        "role": "Patient",
+        "registered_at": "2026-04-07 13:32:45.958079"
+    }
+]
