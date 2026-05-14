@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "booking_id": "191c8930-7db8-4b47-83bf-30672816dd7c",
+        "slot_id": "slot-1",
+        "patient_id": "pat-1",
+        "reason_for_visit": "test",
+        "status": "Scheduled",
+        "ai_summary": "AI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    }
+]

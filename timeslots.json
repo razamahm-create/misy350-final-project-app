@@ -4,6 +4,6 @@
         "doctor_id": "doc-1",
         "date": "2026-04-07",
         "time": "10:00 AM",
-        "status": "Open"
+        "status": "Booked"
     }
 ]
