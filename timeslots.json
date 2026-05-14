@@ -2,8 +2,36 @@
     {
         "slot_id": "slot-1",
         "doctor_id": "doc-1",
-        "date": "2026-04-07",
-        "time": "10:00 AM",
+        "date": "2026-05-14",
+        "time": "09:00 AM",
         "status": "Booked"
+    },
+    {
+        "slot_id": "slot-2",
+        "doctor_id": "doc-1",
+        "date": "2026-05-15",
+        "time": "10:30 AM",
+        "status": "Booked"
+    },
+    {
+        "slot_id": "slot-3",
+        "doctor_id": "doc-1",
+        "date": "2026-05-16",
+        "time": "01:00 PM",
+        "status": "Open"
+    },
+    {
+        "slot_id": "slot-4",
+        "doctor_id": "doc-2",
+        "date": "2026-05-15",
+        "time": "11:00 AM",
+        "status": "Booked"
+    },
+    {
+        "slot_id": "slot-5",
+        "doctor_id": "doc-2",
+        "date": "2026-05-18",
+        "time": "03:30 PM",
+        "status": "Open"
     }
 ]

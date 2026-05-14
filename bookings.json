@@ -1,10 +1,26 @@
 [
     {
-        "booking_id": "191c8930-7db8-4b47-83bf-30672816dd7c",
+        "booking_id": "book-1",
         "slot_id": "slot-1",
         "patient_id": "pat-1",
-        "reason_for_visit": "test",
+        "reason_for_visit": "Follow up on blood pressure medication.",
+        "status": "Completed",
+        "ai_summary": null
+    },
+    {
+        "booking_id": "book-2",
+        "slot_id": "slot-2",
+        "patient_id": "pat-1",
+        "reason_for_visit": "I have had a really bad headache for 3 days and my neck is stiff.",
         "status": "Scheduled",
-        "ai_summary": "AI Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+        "ai_summary": "- **Primary Symptom:** Severe headache persisting for 3 days.\n- **Associated Symptom:** Neck stiffness.\n- **Action Required:** Evaluate for potential migraine or cervical spine issues; rule out meningitis given the stiff neck."
+    },
+    {
+        "booking_id": "book-3",
+        "slot_id": "slot-4",
+        "patient_id": "pat-2",
+        "reason_for_visit": "Need an annual physical for work.",
+        "status": "Scheduled",
+        "ai_summary": null
     }
 ]
